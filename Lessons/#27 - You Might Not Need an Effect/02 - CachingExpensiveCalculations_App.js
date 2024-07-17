@@ -15,7 +15,7 @@ function TodoList({ todos, filter }) {
 }
 */
 
-//Right wihout effects with useMemo
+//Right wihout effects, and with useMemo
 
 import { useMemo, useState } from "react";
 
